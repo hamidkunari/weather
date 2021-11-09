@@ -24,7 +24,7 @@ body {
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  background: rgba(133, 186, 212, 0.5);
+  
 }
 .box {
   background-color: rgba(193, 205, 211, 0.7);
